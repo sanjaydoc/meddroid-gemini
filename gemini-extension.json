@@ -1,0 +1,11 @@
+{
+  "name": "meddroid",
+  "version": "1.0.0",
+  "description": "Free health tools: explain lab results, reports and prescriptions in 30+ languages, when to seek care, nearby clinics, video consults, food calories and health calculators.",
+  "mcpServers": {
+    "meddroid": {
+      "httpUrl": "https://medicalandroid.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
